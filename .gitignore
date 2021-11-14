@@ -1,3 +1,8 @@
+# Ignoring files for Sagemaker
+.jupyter/
+.local/
+*.yarnrc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
